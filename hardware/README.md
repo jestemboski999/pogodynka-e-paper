@@ -11,3 +11,15 @@
 Modele 3MF można otworzyć w slicerze i przygotować dla własnej drukarki. Przed wydrukiem sprawdź dopasowanie do wymiarów swojej ramki i panelu.
 
 [Warunki korzystania z modeli 3D](LICENSE.md).
+
+## Zdjęcia z montażu
+
+W drewnianej ramce zamontowano drukowaną maskownicę, LaskaKit ESPink, antenę Wi-Fi, trzy ogniwa 18650 po 3000 mAh i osobny moduł ładowania USB-C.
+
+<img src="../docs/images/wnetrze-ramki.jpg" alt="Otwarta ramka z płytką ESPink, anteną, trzema ogniwami 18650 i modułem ładowania" width="460">
+
+Wnętrze ramki przed założeniem pokrywy.
+
+<img src="../docs/images/tylna-pokrywa.jpg" alt="Drukowana tylna pokrywa osadzona w drewnianej ramce" width="460">
+
+Tył ramki po założeniu pokrywy.

@@ -2,7 +2,9 @@
 
 Domowy panel pogodowy na czarno-białym ekranie e-paper 7,5″ (800 × 480), zbudowany na LaskaKit ESPink v3.6. Firmware w wersji 2.0.1. Pokazuje zegar, bieżące warunki, wykres temperatury i opadów oraz krótkie podsumowanie po polsku.
 
-![Podgląd interfejsu wygenerowany z bufora obrazu](docs/images/podglad.png)
+<img src="docs/images/pogodynka-na-scianie.jpg" alt="Działająca Pogodynka w drewnianej ramce na ścianie" width="480">
+
+[Podgląd interfejsu 800 × 480](docs/images/podglad.png) · [Zdjęcia montażu i modele do druku](hardware/README.md)
 
 ## Jak działa
 
@@ -15,7 +17,7 @@ Domowy panel pogodowy na czarno-białym ekranie e-paper 7,5″ (800 × 480), zbu
 
 - LaskaKit ESPink v3.6 z ESP32-S3, 16 MB Flash i 8 MB PSRAM.
 - Czarno-biały panel 7,5″ klasy T7, 800 × 480. Firmware używa sterownika GxEPD2_750_T7. W użytym zestawie DIP wyświetlacza jest ustawiony na 1 ON i 2 OFF.
-- Antena Wi-Fi, przewód USB do programowania oraz opcjonalnie akumulator 1S 3,7 V zgodny z płytką.
+- Antena Wi-Fi, przewód USB do programowania oraz zasilanie akumulatorowe. W pokazanym egzemplarzu zastosowano trzy ogniwa 18650 po 3000 mAh oraz osobny moduł ładowania USB-C.
 - Modele ramki i pokrywy znajdują się w [katalogu hardware](hardware/README.md).
 
 | Sygnał ekranu | GPIO |
