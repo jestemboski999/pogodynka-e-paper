@@ -1,0 +1,11 @@
+/PanelESPink/secrets/*
+!/PanelESPink/secrets/*.example
+/build/
+**/build/
+__pycache__/
+*.pyc
+*.log
+*.elf
+*.bin
+*.map
+*.exe
