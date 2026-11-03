@@ -2,9 +2,9 @@
 
 [← Powrót do projektu](../README.md)
 
-![Widok rozstrzelony części ramki od tyłu](../docs/images/zlozenie-18650-od-tylu.png)
+![Widok rozstrzelony części ramki od tyłu](../docs/images/zlozenie-18650-od-tylu-v2.png)
 
-[Obróć złożenie w podglądzie 3D](zlozenie-18650.stl) · STL poglądowy. Pliki do druku są w tabeli poniżej.
+[Obróć złożenie w podglądzie 3D](zlozenie-18650-v2.stl) · STL poglądowy. Pliki do druku są w tabeli poniżej.
 
 | Plik | Element |
 | --- | --- |
