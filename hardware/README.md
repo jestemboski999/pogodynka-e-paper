@@ -4,6 +4,8 @@
 
 ![Widok rozstrzelony części ramki](../docs/images/widok-rozstrzelony.png)
 
+[Obróć złożenie w podglądzie 3D](widok-rozstrzelony.stl) · STL poglądowy. Pliki do druku są w tabeli poniżej.
+
 | Plik | Element |
 | --- | --- |
 | [pasportu.3mf](pasportu.3mf) | Przednia maskownica wyświetlacza |

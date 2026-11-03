@@ -29,6 +29,8 @@ Pogoda na dziś, godzina i informacja o tym, kiedy spodziewać się deszczu. Pan
 
 ![Widok rozstrzelony wariantu 18650. Maskownica, ekran, wkład na elektronikę i tylna pokrywa.](docs/images/widok-rozstrzelony.png)
 
+[Obróć złożenie w podglądzie 3D](hardware/widok-rozstrzelony.stl) · STL poglądowy. Pliki do druku są w tabeli poniżej.
+
 Trzy drukowane elementy mieszczą się w drewnianej ramce. Maskownica otacza ekran, wkład mieści płytkę LaskaKit ESPink v3.6 i pakiet trzech ogniw 18650 po 3000 mAh, a tylna pokrywa zamyka całość. Ilustracja powstała z plików 3MF. Ekran jest pokazany schematycznie.
 
 | Część | Plik |
