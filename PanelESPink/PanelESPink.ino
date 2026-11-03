@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// Copyright (c) 2026 Filip (jestemboski999) for Pogodynka C Studio contributions.
 // C Studio: oddzielny program, zachowany sterownik panelu i ustawienia sieci.
 #include <WiFi.h>
 #include <HTTPClient.h>
@@ -40,6 +42,8 @@
 // przywraca, a _writeImage() wola _Init_Part() przy KAZDYM zapisie obrazu.
 // Zanizone napiecie trafia wiec takze na pelne odswiezenia i czern plowieje
 // w ostatniej fazie napedu. Stad wlasna sekwencja pelnego odswiezenia.
+// Adapted from GxEPD2_750_T7 by Jean-Marc Zingg (GxEPD2 1.6.9, GPLv3).
+// Pogodynka modification (2026): custom full refresh with VCOM and booster options.
 class GxEPD2_750_T7_VCOM : public GxEPD2_750_T7 {
  public:
   GxEPD2_750_T7_VCOM(int16_t cs, int16_t dc, int16_t rst, int16_t busy)

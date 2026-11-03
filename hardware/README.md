@@ -9,3 +9,5 @@
 | [pokrywa_tylna.3mf](pokrywa_tylna.3mf) | Tylna pokrywa |
 
 Modele 3MF można otworzyć w slicerze i przygotować dla własnej drukarki. Przed wydrukiem sprawdź dopasowanie do wymiarów swojej ramki i panelu.
+
+[Warunki korzystania z modeli 3D](LICENSE.md).

@@ -65,6 +65,10 @@ Aby zapisać obraz z urządzenia, ustaw `DEBUG_FB_DUMP` na `1`, wgraj firmware i
 
 Dane pogodowe pochodzą z [Open-Meteo](https://open-meteo.com/) oraz opcjonalnie z [Tomorrow.io](https://www.tomorrow.io/weather-api/). Glify w firmware powstały z kroju Inter, objętego [SIL Open Font License 1.1](licenses/Inter-OFL.txt).
 
-## Warunki użycia modeli 3D
+## Licencje i autorzy
 
-Modele możesz bezpłatnie pobrać, dostosować i wydrukować na własny użytek niekomercyjny. Użycie komercyjne wymaga pisemnej zgody autora. Szczegóły znajdziesz w [warunkach korzystania](LICENSE.md).
+- **Firmware i narzędzia projektu** są udostępnione na [GPL-3.0-only](LICENSE). Licencja pozwala także na użycie komercyjne. Przy dystrybucji firmware obowiązują jej warunki, w tym udostępnienie odpowiadającego kodu źródłowego.
+- **Modele 3D** można bezpłatnie pobrać, dostosować i wydrukować na własny użytek niekomercyjny. Użycie komercyjne wymaga pisemnej zgody autora. [Warunki korzystania z modeli](hardware/LICENSE.md).
+- Sterownik ekranu rozszerza GxEPD2 Jeana-Marca Zingga. Adaptacja zmienia sekwencję pełnego odświeżania, w tym sterowanie VCOM i opcjonalny booster. [GxEPD2](https://github.com/ZinggJM/GxEPD2).
+- Wcześniejszy układ interfejsu był inspirowany projektem Luke'a Marzena. [esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd).
+- Komponenty zewnętrzne zachowują własne licencje. Dotyczy to m.in. glifów Inter, których licencja jest dołączona w katalogu `licenses/`. [SIL Open Font License 1.1](licenses/Inter-OFL.txt).

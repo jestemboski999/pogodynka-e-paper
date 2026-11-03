@@ -7,5 +7,3 @@ Możesz bezpłatnie pobierać i kopiować pliki modeli 3D z katalogu `hardware/`
 Użycie komercyjne wymaga uprzedniej pisemnej zgody autora. Dotyczy to w szczególności sprzedaży modeli lub wydruków, używania ich w ramach płatnej usługi i dołączania ich do sprzedawanych produktów. W sprawie zgody skontaktuj się z autorem przez jego [profil na GitHubie](https://github.com/jestemboski999).
 
 Warunki publicznego udostępniania na GitHubie, w tym przeglądania i tworzenia forków w ramach serwisu, wynikają również z [regulaminu GitHuba](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
-
-Niniejsze warunki dotyczą modeli 3D. Warunki udostępnienia firmware wymagają odrębnego ustalenia przed publikacją. Komponenty zewnętrzne podlegają własnym licencjom.
