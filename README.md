@@ -16,7 +16,9 @@ Pogoda na dziś, godzina i informacja o tym, kiedy spodziewać się deszczu. Pan
 
 ## Interfejs
 
-![Podgląd ekranu e-paper z zegarem, bieżącymi warunkami i wykresem temperatury](docs/images/podglad.png)
+![Ekran e-paper z prognozą wzrostu temperatury z 10 do 15°C, opadami od 10:00 i prawdopodobieństwem deszczu](docs/images/podglad-prognozy-opadow.png)
+
+Przykład z symulatora. Temperatura rośnie z 10 do 15°C. O 10:00 prognoza pokazuje 0,3 mm opadu i 51% szansy, a dla kolejnych godzin ekran podaje samą szansę opadów.
 
 | Na ekranie | Jak działa |
 | --- | --- |
