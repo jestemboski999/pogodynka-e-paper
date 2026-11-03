@@ -27,9 +27,9 @@ Pogoda na dziś, godzina i informacja o tym, kiedy spodziewać się deszczu. Pan
 
 ## Budowa i modele 3D
 
-![Widok rozstrzelony wariantu 18650. Maskownica, ekran, wkład na elektronikę i tylna pokrywa.](docs/images/widok-rozstrzelony-pokrywa-na-zewnatrz.png)
+![Widok rozstrzelony wariantu 18650. Widok od tyłu: pokrywa, wkład na elektronikę, ekran i maskownica.](docs/images/zlozenie-18650-od-tylu.png)
 
-[Obróć złożenie w podglądzie 3D](hardware/widok-rozstrzelony.stl) · STL poglądowy. Pliki do druku są w tabeli poniżej.
+[Obróć złożenie w podglądzie 3D](hardware/zlozenie-18650.stl) · STL poglądowy. Pliki do druku są w tabeli poniżej.
 
 Trzy drukowane elementy mieszczą się w drewnianej ramce. Maskownica otacza ekran, wkład mieści płytkę LaskaKit ESPink v3.6 i pakiet trzech ogniw 18650 po 3000 mAh, a tylna pokrywa zamyka całość. Ilustracja powstała z plików 3MF. Ekran jest pokazany schematycznie.
 
