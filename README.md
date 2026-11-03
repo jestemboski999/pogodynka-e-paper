@@ -29,7 +29,7 @@ Przykład z symulatora. Temperatura rośnie z 10 do 15°C. O 10:00 prognoza poka
 
 ## Budowa i modele 3D
 
-![Widok rozstrzelony wariantu 18650. Widok od tyłu: pokrywa, wkład na elektronikę, ekran i maskownica.](docs/images/zlozenie-18650-z-interfejsem.png)
+![Widok rozstrzelony wariantu 18650. Widok od tyłu: pokrywa, wkład na elektronikę, ekran i maskownica.](docs/images/zlozenie-18650-ekran-odwrocony.png)
 
 [Obróć złożenie w podglądzie 3D](hardware/zlozenie-18650-v2.stl) · STL poglądowy. Pliki do druku są w tabeli poniżej.
 
