@@ -2,7 +2,7 @@
 
 [← Powrót do projektu](../README.md)
 
-![Widok rozstrzelony części ramki](../docs/images/widok-rozstrzelony.png)
+![Widok rozstrzelony części ramki](../docs/images/widok-rozstrzelony-pokrywa-na-zewnatrz.png)
 
 [Obróć złożenie w podglądzie 3D](widok-rozstrzelony.stl) · STL poglądowy. Pliki do druku są w tabeli poniżej.
 

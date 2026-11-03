@@ -27,7 +27,7 @@ Pogoda na dziś, godzina i informacja o tym, kiedy spodziewać się deszczu. Pan
 
 ## Budowa i modele 3D
 
-![Widok rozstrzelony wariantu 18650. Maskownica, ekran, wkład na elektronikę i tylna pokrywa.](docs/images/widok-rozstrzelony.png)
+![Widok rozstrzelony wariantu 18650. Maskownica, ekran, wkład na elektronikę i tylna pokrywa.](docs/images/widok-rozstrzelony-pokrywa-na-zewnatrz.png)
 
 [Obróć złożenie w podglądzie 3D](hardware/widok-rozstrzelony.stl) · STL poglądowy. Pliki do druku są w tabeli poniżej.
 
