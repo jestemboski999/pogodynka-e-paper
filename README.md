@@ -64,3 +64,7 @@ python PanelESPink/generuj_dekoracje.py
 Aby zapisać obraz z urządzenia, ustaw `DEBUG_FB_DUMP` na `1`, wgraj firmware i uruchom `python tools/podglad.py --port COM5 --out build/podglad.png` po utworzeniu katalogu `build`. Podaj własny port.
 
 Dane pogodowe pochodzą z [Open-Meteo](https://open-meteo.com/) oraz opcjonalnie z [Tomorrow.io](https://www.tomorrow.io/weather-api/). Glify w firmware powstały z kroju Inter, objętego [SIL Open Font License 1.1](licenses/Inter-OFL.txt).
+
+## Warunki użycia modeli 3D
+
+Modele możesz bezpłatnie pobrać, dostosować i wydrukować na własny użytek niekomercyjny. Użycie komercyjne wymaga pisemnej zgody autora. Szczegóły znajdziesz w [warunkach korzystania](LICENSE.md).
